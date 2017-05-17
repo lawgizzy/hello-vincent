@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+A Graduate with a B.Tech in Information Management Technology and five years of intermittent work experience. Possess a sound background in programming languages such as Java, PHP, Javascript, C++ and Pascal, database management using MySQL, Oracle SQL, MariaDB and Apache Derby, web technologies (HTML, CSS, Search Engine Optimization), virtualization technologies (VMware, Virtualbox) as well as extensive training in data communications and digital signaling. Experienced in working with the Microsoft family of operating systems (WINXP, WIN7, WIN2008, WIN2010), Microsoft packages (MS WORD, MS EXCEL, MS ACCESS, MS POWERPOINT) and other operating systems (Linux Fedora). 
+
+A highly-motivated, productive and customer-focused team player with strong communication, interpersonal, organizational, time management, analytical and problem solving skills.  Reliable and dedicated with the ability to grasp and apply new procedures quickly; organize and prioritize tasks to meet deadlines and adapt readily to new challenges. 
